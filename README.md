@@ -13,12 +13,19 @@ The provided Python code streamlines the processing of data from a multi-column 
 Fork this starter repo into your GitHub.
 
 Clone your repo down to your machine.
+
 View / Command Palette - then Python: Select Interpreter.
+
 Select your conda environment.
+
 Read
+
 Read the RabbitMQ Tutorial - Work Queues.
+
 Modify the publisher script (publisher.py) to send data to RabbitMQ queues.
+
 Run the publisher script to populate the queues.
+
 Run consumer1.py and consumer2.py to process the data and write results to CSV files.
 
 # Project Structure
