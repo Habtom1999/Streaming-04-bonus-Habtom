@@ -9,8 +9,9 @@ Date: May 22, 2024
 Introduction
 The provided Python code streamlines the processing of data from a multi-column CSV file through the utilization of RabbitMQ queues. This project demonstrate way to split and process data from an input CSV file and apply specific transformations to the extracted information. By distributing the workload to multiple worker processes.
 
-Before You Begin
+# Before You Begin
 Fork this starter repo into your GitHub.
+
 Clone your repo down to your machine.
 View / Command Palette - then Python: Select Interpreter.
 Select your conda environment.
