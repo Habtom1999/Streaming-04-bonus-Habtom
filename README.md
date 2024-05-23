@@ -44,9 +44,12 @@ data-result2.csv: Output CSV file for processed data from consumer 2.
 
 # Run 
 
-Run the three python files in the bash: in anaconda Prompt (miniconda3) run these:
+Run the three python files in the  in anaconda Prompt 
+
 python publisher.py
+
 python consumer1.py
+
 python consumer2.py
 
 ![alt text](image-1.png)
