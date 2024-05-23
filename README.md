@@ -42,9 +42,9 @@ python consumer2.py
 
 See a running example with at least 3 concurrent process windows here
 ![alt text](Bonus.png)
-![alt text](Bonus-1.png)
-![alt text](Bonus-2.png)
-![alt text](Bonus-4.png)
+![alt text](Bonus1.png)
+![alt text](Bonus2.png)
+![alt text](Bonus4.png)
 
 
 - [RabbitMQ Tutorial - Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
