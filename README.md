@@ -38,13 +38,17 @@ python consumer1.py
 python consumer2.py
 
 ![alt text](image-3.png)
-# Multiple Screen
+# # Multiple Screen
 
-- [RabbitMQ Tutorial - Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
+See a running example with at least 3 concurrent process windows here
 ![alt text](Bonus.png)
 ![alt text](Bonus-1.png)
 ![alt text](Bonus-2.png)
 ![alt text](Bonus-4.png)
+
+
+- [RabbitMQ Tutorial - Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
+
 
 # Source Data for CSV 
 https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who?resource=download
