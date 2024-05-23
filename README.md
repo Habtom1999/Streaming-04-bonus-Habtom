@@ -45,6 +45,7 @@ python consumer2.py
 ![alt text](Bonus-1.png)
 ![alt text](Bonus-2.png)
 ![alt text](Bonus-4.png)
+
 # Source Data for CSV 
 https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who?resource=download
 
