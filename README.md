@@ -29,12 +29,17 @@ Run the publisher script to populate the queues.
 Run consumer1.py and consumer2.py to process the data and write results to CSV files.
 
 # Project Structure
-.publisher.py: Sends data from data.csv to two RabbitMQ queues.
-.consumer1.py: Monitors the first queue, performs transformations, and writes to data-result1.csv.
-.consumer2.py: Monitors the second queue, performs transformations, and writes to data-result2.csv.
-.Life expectancy.csv: Original CSV file, input CSV file with multiple columns.
-.data-result1.csv: Output CSV file for processed data from consumer 1.
-.data-result2.csv: Output CSV file for processed data from consumer 2.
+publisher.py: Sends data from data.csv to two RabbitMQ queues.
+
+consumer1.py: Monitors the first queue, performs transformations, and writes to data-result1.csv.
+
+consumer2.py: Monitors the second queue, performs transformations, and writes to data-result2.csv.
+
+Life expectancy.csv: Original CSV file, input CSV file with multiple columns.
+
+data-result1.csv: Output CSV file for processed data from consumer 1.
+
+data-result2.csv: Output CSV file for processed data from consumer 2.
 
 
 # Run 
