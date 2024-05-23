@@ -7,7 +7,7 @@ Author: Habtom Woldu
 Date: May 22, 2024
 
 Introduction
-The provided Python code streamlines the processing of data from a multi-column CSV file through the utilization of RabbitMQ queues. This project demonstrate way to split and process data from an input CSV file and apply specific transformations to the extracted information. By distributing the workload to multiple worker processes.
+The provided Python code streamlines the processing of data from a multi-column CSV file through the utilization of RabbitMQ queues. This project demonstrates a means to split and process data from an input CSV file and apply specific transformations to the extracted information by distributing the workload to multiple worker processes.
 
 # Before You Begin
 Fork this starter repo into your GitHub.
